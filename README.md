@@ -1,4 +1,4 @@
-                                                            Day & Night Trading Strategy
+                                                    Day & Night Trading Strategy
 
   In trading, having a strategy is considered very important. A strategy means following rules in a more disciplined manner that helps us in maximizing profit with minimum risk. In this blog, we will be going through one such trading strategy : Day and Night Strategy. This Strategy is based on the theory that major movements in the stock market happen overnight rather than during the trading hours and will show you the performance by calculating the overnight returns of two stocks (Amazon and Apple stock) using python. We will also calculate the Sharpe ratio.
 
